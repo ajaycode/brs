@@ -2,6 +2,8 @@
 
 Project training how to use django
 
+Demo: [http://brs-framgia.herokuapp.com/](http://brs-framgia.herokuapp.com/)
+
 ## Installation
 
 * [Environment](http://askubuntu.com/questions/244641/how-to-set-up-and-use-a-virtual-python-environment-in-ubuntu)
